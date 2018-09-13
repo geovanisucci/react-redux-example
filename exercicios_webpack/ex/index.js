@@ -1,1 +1,1 @@
-console.log('Webpack Sajorato')
+require('./duvidaCruel')
